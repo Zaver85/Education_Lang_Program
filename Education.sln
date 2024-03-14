@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{ffe7d8f8-74f8-46a9-964f-d8ef83f594e2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{68bbe5f5-06af-43ff-9e3b-511efc429bf1}"
-EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
